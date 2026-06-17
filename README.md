@@ -25,11 +25,11 @@ Se abrirá automáticamente en `http://localhost:8501`
 
 nsightpyme/
 
-├── app.py            # Interfaz Streamlit (frontend + autenticación)
+├── app.py            --> Interfaz Streamlit (frontend + autenticación)
 
-├── modelo.py         # Motor de predicción FAO ETo × Kc + Random Forest
+├── modelo.py         --> Motor de predicción FAO ETo × Kc + Random Forest
 
-├── clima.py          # Integración API climática Open-Meteo (pronóstico 7 días)
+├── clima.py          --> Integración API climática Open-Meteo (pronóstico 7 días)
 
 ├── requirements.txt
 
