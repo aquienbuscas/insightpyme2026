@@ -1,5 +1,6 @@
 # InsightPyme — Prototipo v1.0
 Plataforma de predicción hídrica con IA para agricultores de la IV Región de Coquimbo.
+**Demo en vivo:** [insightpyme2026-prototipo.streamlit.app](https://insightpyme2026-prototipo.streamlit.app/)
 
 ## Credenciales de acceso
 - **Usuario:** `juan.perez`
